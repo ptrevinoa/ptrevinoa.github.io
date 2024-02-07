@@ -58,8 +58,8 @@ This project shows a brief summary of the steps for handling the data generated 
 
 ### Diabetes diagnosis prediction (classification task)
 
-[Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/Diabetes.ipynb)
-[nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/Diabetes.ipynb)
+[Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/diabetes.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/diabetes.ipynb)
 
 The focus of this project is Exploratory Data Analysis (including data visualization with K-means clustering, Hierarchical clustering, model feature importance and decision regions plot) and training a Support Vector Machine to predict whether a patient has diabetes based on diagnostic measurements.  
 
